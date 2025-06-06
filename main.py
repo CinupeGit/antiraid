@@ -8,7 +8,7 @@ import json
 import os
 
 
-b64token = open('assets\\token.txt', 'r').read().strip()
+b64token = open('assets/token.txt', 'r').read().strip()
 
 intents = discord.Intents.default()
 intents.message_content = True
