@@ -1,4 +1,4 @@
-1. Data Collection and Storage
+1. Data Collection and Storage.
 By inviting and activating the AntiRaid bot on your server, you agree that we may collect and store the following:
 
 Guild information (server ID's)
@@ -6,9 +6,9 @@ Member information (user ID's)
 Message Contents (only those necessary for raid detection)
 Channel information (names, IDs)
 
-2. Liability
+2. Liability.
 You acknowledge that the AntiRaid bot operates automatically and we are not responsible for any unintended actions or issues caused by its functions.
 The bot does not guarantee full protection against raids or server attacks. We appreciate your understanding.
 
-3. Automatic Actions
+3. Automatic Actions.
 The bot may automatically kick, mute, or send direct messages to users it detects as participating in raids or malicious activity.
